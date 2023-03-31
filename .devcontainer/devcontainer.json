@@ -61,7 +61,8 @@
         "ms-dotnettools.csharp",
         "ms-vscode.PowerShell",
         "ms-vscode.vscode-node-azure-pack",
-        "VisualStudioExptTeam.vscodeintellicode"
+        "VisualStudioExptTeam.vscodeintellicode",
+        "oderwat.indent-rainbow"
       ],
       "settings": {
         // Uncomment if you want to disable the minimap view
